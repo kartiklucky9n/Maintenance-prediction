@@ -56,9 +56,9 @@ MREi.</li>
 <h3>Results :</h3>
   For results & analysis Leave one out cross validation(LOOCV) technique is used.
 <p>
-  <img src="https://github.com/kartiklucky9n/Maintenance-prediction/blob/master/docs/ScreenShots/result.png"/>
+  <img src="https://github.com/kartiklucky9n/Maintenance-prediction/blob/main/docs/ScreenShots/result.png"/>
   <br>
-  <img src="https://github.com/kartiklucky9n/Maintenance-prediction/blob/master/docs/ScreenShots/result1.png"/>
+  <img src="https://github.com/kartiklucky9n/Maintenance-prediction/blob/main/docs/ScreenShots/result1.png"/>
 
 <br>
 From the results presented above, object-oriented metrics chosen in this study appear to be useful in predicting software quality.
